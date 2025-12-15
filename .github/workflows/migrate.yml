@@ -1,4 +1,4 @@
-name: Hot News Crawler
+name: Migrate indicator scripts
 on:
   schedule:
     - cron: "0 18 * * *"
