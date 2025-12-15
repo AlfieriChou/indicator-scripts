@@ -5,6 +5,7 @@ format:
 
 migrate:
 	node yangtze-river-station/index.mjs
+	node wine/moutai.mjs
 
 push:
 	git pull origin master
